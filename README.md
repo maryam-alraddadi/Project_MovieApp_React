@@ -53,4 +53,4 @@ You are required to implement web application that will allow the user to do the
 
 ## Due Date
 
-On Sunday at 9:00 am.
+On Sunday 2021/07/18 at 9:00 am.
