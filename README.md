@@ -49,6 +49,7 @@ You are required to implement web application that will allow the user to do the
 - Use localStorage with Redux
 
 - Make it Full Stack using .Net as backend
+- Use React Native as your FrontEnd in addition to your web application
 
 
 ## Due Date
